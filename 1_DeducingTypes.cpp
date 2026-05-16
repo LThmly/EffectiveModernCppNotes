@@ -4,7 +4,7 @@
 
 /*
  Type deduction occurs at compile-time and allows the compiler
- to deduce the type of an expressions, variable, or function.
+ to deduce the type of expressions, variables, or functions.
 */
 
 // Rules for template param type - void f(ParamType param)
